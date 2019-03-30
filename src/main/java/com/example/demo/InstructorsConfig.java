@@ -20,6 +20,7 @@ public class InstructorsConfig {
         list.add(new Instructor(11L, "Will"));
         list.add(new Instructor(12L, "Nu"));
 
+
         return new Instructors(list);
     }
 

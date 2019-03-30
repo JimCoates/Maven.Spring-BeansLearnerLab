@@ -27,6 +27,7 @@ public class StudentConfig {
         list.add(new Student(6L, "Dave"));
         list.add(new Student(7L, "Eric"));
         list.add(new Student(8L, "SeanMC"));
+        list.add(new Student(30L, "Kyle"));
 
         return new Students(list);
     }
